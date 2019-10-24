@@ -44,3 +44,6 @@ It’s the command that lets you easily navigate between different branches in y
 It’s used to upload local repository content to a remote repository. It’s how you transfer commits from your local repository to a remote one. Pushing exports commits to remote branches unlike fetching, which imports commits to local branches.
 Example: the action of pushing every commit made in the current project.
 
+9. Pull
+This is used to update the local version of a repository from a remote. It acts like a refresh command wherein changes made by any other users on the local repository can be updated on your remote repository.
+
