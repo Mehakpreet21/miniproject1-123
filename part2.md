@@ -46,4 +46,14 @@ Example: the action of pushing every commit made in the current project.
 
 9. Pull
 This is used to update the local version of a repository from a remote. It acts like a refresh command wherein changes made by any other users on the local repository can be updated on your remote repository.
+10. Remote Add / Remove / Show
+* remote:  a common repository that all team members use to exchange their changes
+Example: remote name, “origin”
+Remote add: adds new remote.
+The git remote add command takes two arguments: A remote name, for example, “origin” A remote URL, which you can find on the Source sub-tab of your Git repo.
+Remote remove: removes remote.
+Remote show: To see which remote servers you have configured
+
+11. Status:
+This command lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git
 

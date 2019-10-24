@@ -3,7 +3,7 @@
 
 By: Tejasree Seelam, Mehakpreet Kaur, Noura Hedhli
 
-![git and github pic](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjTiNetpLXlAhWyq1kKHXBrBq0QjRx6BAgBEAQ&url=https%3A%2F%2Fmedium.com%2F%40abhishekj%2Fan-intro-to-git-and-github-1a0e2c7e3a2f&psig=AOvVaw1rpEJpY-yrBzcUItzE8UtF&ust=1572019818680523)
+![git and github pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVcHi7Vbr1vQhfCMvbNMsDCg_Z5batoKP0E9l0rVb-4q0h55u&s)
 
 #### Todo List
 - [ ] Noura: Part 1 - What is it? Why do you do it? How do you do it?
