@@ -33,3 +33,14 @@ A pull request can be made by anyone who has forked an orginal repository. Makin
 * Click "Create Pull Request" if the request is ready to be reviewed or click "Create Draft Pull Request" if the request is not ready to be reviewed
 * Pull request is created and the owner should be notified
 
+### Adding a Collaborator to a GitHub Repo
+Adding collaborators to a repository allows teamwork can be very useful for group projects.
+
+**Steps to Add a Collaborator to a GitHub Repo**
+* Navigate to the respository beign used
+* Click the "Settings" button on the right
+* From the left sidebar, click "Collaborators"
+* Provide login, in necessary
+* Enter the collaborator's username and select from the the dropdown menu
+* Click "Add Collaborator"
+* The selected user has been added as a collaborator and will be notified of their access to the repository.
