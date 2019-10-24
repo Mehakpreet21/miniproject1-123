@@ -28,4 +28,7 @@ starting from the root.
 - rm -R "/path/to.root/directory"
 - rm -R ./Desktop/New_folder
 7. History: history command shows a list of the commands entered since you started the session.
-It can be reuse a command by typing !3 or !1 depending on how many commands you had.   
+It can be reuse a command by typing !3 or !1 depending on how many commands you had.
+
+8. Home directory and ~: using "cd" or "cd~" to either navigate up on directory level or you can use "cd" to navigate to the perivious directory. "cd~" let's you navigate through multiple levels of directories at once.
+   
