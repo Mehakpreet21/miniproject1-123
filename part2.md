@@ -54,3 +54,6 @@ The git remote add command takes two arguments: A remote name, for example, “o
 Remote remove: removes remote.
 Remote show: To see which remote servers you have configured
 
+11. Status:
+This command lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git
+
