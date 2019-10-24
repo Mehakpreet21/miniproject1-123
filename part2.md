@@ -17,3 +17,6 @@ ccepted to be termed as a "feature".
         b. Any form of a fix or change of the input already in the repository is termed as a "Fix".
 **The only commits to master branch are the merges from release branches and fix branches.**
 
+### Some terms you need to know to understand GitFlow
+1. Repositiory: 
+This is, in simple terms, a file wherein all the ocntent of the project files is kept. It's best termed as the project's folder.
