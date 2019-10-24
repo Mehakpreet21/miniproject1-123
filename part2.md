@@ -36,3 +36,11 @@ example: master and develop branch.
 5. Commit:
 It acts as an individual change to a file. To commit means to make whatever changes you made in your cloned repository, permanent.
 example: commiting every definition to GitHub through GitBash
+6. Merge:
+Merge comman is one that we use in order to literally merge different branches to make one single branch. It is similar to compiling different parts of a project.
+7. Checkout:
+It’s the command that lets you easily navigate between different branches in your repository. It also updates the working directory’s files to match the version that’s stored in the branch that’s been navigated to.
+8. Push:
+It’s used to upload local repository content to a remote repository. It’s how you transfer commits from your local repository to a remote one. Pushing exports commits to remote branches unlike fetching, which imports commits to local branches.
+Example: the action of pushing every commit made in the current project.
+
