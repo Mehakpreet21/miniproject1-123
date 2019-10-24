@@ -26,4 +26,6 @@ starting from the root.
 6. rm: is Remove nested directories
 * Example:
 - rm -R "/path/to.root/directory"
-- rm -R ./Desktop/New_folder   
+- rm -R ./Desktop/New_folder
+7. History: history command shows a list of the commands entered since you started the session.
+It can be reuse a command by typing !3 or !1 depending on how many commands you had.   
