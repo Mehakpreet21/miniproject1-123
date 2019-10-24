@@ -27,4 +27,11 @@ example (step wise):
 a. use the "clone or download" tab to open the link to the source code of the repository and copy the link. 
 b. use this link to clone the repository through GitBash.
 (using git clone git@example.git)
+3. Fork:
+A fork is a copy of a repository. Forking a repository lets you freely experiment without affecting the original project.
+4. Branch
+A branch acts as a lightweight moveable pointer to any commits made. It literally is a branch out of te
+ main trunk in the repository.
+example: master and develop branch.
+
 
