@@ -2,7 +2,6 @@
 1. cd: Change Directory. It changes the directory of the command line path.
 * Example:
 - cd “path/to.directory/”
-
 - cd ./Desktop
 
 2. mkdir: is used to create a directory.
@@ -23,4 +22,10 @@ starting from the root.
 * Example:
 - mv "filename" "path/to/new/file/location"
 - mv ./Documents/noura2.pdf ./Documents/noura3.pdf
-  
+
+6. rm: is Remove nested directories
+* Example:
+- rm -R "/path/to.root/directory"
+- rm -R ./Desktop/New_folder
+7. History: history command shows a list of the commands entered since you started the session.
+It can be reuse a command by typing !3 or !1 depending on how many commands you had.   
