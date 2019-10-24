@@ -20,3 +20,16 @@ Cloning allows the user to create a "cloned" version of the original project. Th
 * enter the newly created repository by typing "cd <name of repository> and pressing enter
 * you can now make changes to the respository by using git commands like add and commit
 * once you push the changes to the original repository, the changes we be available GitHub
+
+### Pull Request
+A pull request can be made by anyone who has forked an orginal repository. Making this request informs the owner that there are potential changes. Once the owner recieves the request, they can review the changes and merge the code into the base branch.
+
+**Steps to Create/Complete a Pull Request:**
+* Navigate to the repository being used
+* From the "Branch" button, select the branch with the new commits
+* Click the "New Pull Request" button
+* Select the base branch and the compare branch. Usually, base branch is "master" and compare branch is the branch with new changes
+* Enter a title and description for the pull request
+* Click "Create Pull Request" if the request is ready to be reviewed or click "Create Draft Pull Request" if the request is not ready to be reviewed
+* Pull request is created and the owner should be notified
+
