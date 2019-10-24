@@ -3,9 +3,9 @@ It's a branching model for Git. It acts as a wrapper around Git. It's an extensi
 ### **GitFlow Workflow**
 GitFlow is an abstract idea of Git workflow. It uses two branches to record the history of the project
 instead of just one. The master and Develop branch.
-1. Master Branch:
+1. **Master Branch:**
 Stores the official release history of the project
-2. Develop Branch:
+2. **Develop Branch:**
 Serves as an integration branch for features.
 	* The “release branch” is made off of develop.
 
@@ -18,32 +18,61 @@ ccepted to be termed as a "feature".
 **The only commits to master branch are the merges from release branches and fix branches.**
 
 ### Some terms you need to know to understand GitFlow
-1. Repositiory: 
+1. **Repositiory:** 
 This is, in simple terms, a file wherein all the ocntent of the project files is kept. It's best termed as the project's folder.
-expample: miniproject1-123 (the current repository for miniproject1)
-2. Clone:
+*example: miniproject1-123 (the current repository for miniproject1)*
+2. **Clone:**
 As the name suggests, cloning literally means getting a copy of something. In github the clone command copies the source code of the repository from the source control. 
-example (step wise): 
+
+*example (step wise): 
+
 a. use the "clone or download" tab to open the link to the source code of the repository and copy the link. 
+
 b. use this link to clone the repository through GitBash.
-(using git clone git@example.git)
-3. Fork:
+(using git clone git@example.git)*
+
+3. **Fork:**
+
 A fork is a copy of a repository. Forking a repository lets you freely experiment without affecting the original project.
-4. Branch:
+
+4. **Branch:**
+
 A branch acts as a lightweight moveable pointer to any commits made. It literally is a branch out of te
  main trunk in the repository.
-example: master and develop branch.
-5. Commit:
+*example: master and develop branch.*
+
+5. **Commit:**
+
 It acts as an individual change to a file. To commit means to make whatever changes you made in your cloned repository, permanent.
 example: commiting every definition to GitHub through GitBash
-6. Merge:
-Merge comman is one that we use in order to literally merge different branches to make one single branch. It is similar to compiling different parts of a project.
-7. Checkout:
-It’s the command that lets you easily navigate between different branches in your repository. It also updates the working directory’s files to match the version that’s stored in the branch that’s been navigated to.
-8. Push:
-It’s used to upload local repository content to a remote repository. It’s how you transfer commits from your local repository to a remote one. Pushing exports commits to remote branches unlike fetching, which imports commits to local branches.
-Example: the action of pushing every commit made in the current project.
 
-9. Pull
+6. **Merge:**
+
+Merge comman is one that we use in order to literally merge different branches to make one single branch. It is similar to compiling different parts of a project.
+
+7. **Checkout:**
+
+It’s the command that lets you easily navigate between different branches in your repository. It also updates the working directory’s files to match the version that’s stored in the branch that’s been navigated to.
+
+8. **Push:**
+
+It’s used to upload local repository content to a remote repository. It’s how you transfer commits from your local repository to a remote one. Pushing exports commits to remote branches unlike fetching, which imports commits to local branches.
+*Example: the action of pushing every commit made in the current project.*
+
+9. **Pull:**
 This is used to update the local version of a repository from a remote. It acts like a refresh command wherein changes made by any other users on the local repository can be updated on your remote repository.
+
+10. **Remote Add / Remove / Show:**
+* remote:  a common repository that all team members use to exchange their changes
+*Example: remote name, “origin”.*
+
+Remote add: adds new remote.
+	The git remote add command takes two arguments: A remote name, for example, “origin” A remote URL, which you can find on the Source sub-tab of your Git repo.
+
+Remote remove: removes remote.
+
+Remote show: To see which remote servers you have configured
+
+11. **Status:**
+This command lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git
 
