@@ -30,25 +30,38 @@ a. use the "clone or download" tab to open the link to the source code of the re
 
 b. use this link to clone the repository through GitBash.
 (using git clone git@example.git)*
+
 3. **Fork:**
+
 A fork is a copy of a repository. Forking a repository lets you freely experiment without affecting the original project.
+
 4. **Branch:**
+
 A branch acts as a lightweight moveable pointer to any commits made. It literally is a branch out of te
  main trunk in the repository.
 *example: master and develop branch.*
+
 5. **Commit:**
+
 It acts as an individual change to a file. To commit means to make whatever changes you made in your cloned repository, permanent.
 example: commiting every definition to GitHub through GitBash
+
 6. **Merge:**
+
 Merge comman is one that we use in order to literally merge different branches to make one single branch. It is similar to compiling different parts of a project.
+
 7. **Checkout:**
+
 It’s the command that lets you easily navigate between different branches in your repository. It also updates the working directory’s files to match the version that’s stored in the branch that’s been navigated to.
+
 8. **Push:**
+
 It’s used to upload local repository content to a remote repository. It’s how you transfer commits from your local repository to a remote one. Pushing exports commits to remote branches unlike fetching, which imports commits to local branches.
 *Example: the action of pushing every commit made in the current project.*
 
 9. **Pull:**
 This is used to update the local version of a repository from a remote. It acts like a refresh command wherein changes made by any other users on the local repository can be updated on your remote repository.
+
 10. **Remote Add / Remove / Show:**
 * remote:  a common repository that all team members use to exchange their changes
 *Example: remote name, “origin”.*
