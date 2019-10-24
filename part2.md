@@ -8,6 +8,7 @@ Stores the official release history of the project
 2. Develop Branch:
 Serves as an integration branch for features.
 	* The “release branch” is made off of develop.
+
 **Steps on how to use GitFlow Workflow**
 * The first step is to complement the default master with a develop branch by creating an empty develop branch locally and push it to the server.
 * This Branch will contain the complete history of the project and other developers can clone the central repository to go ahead an dcommit text into it.
