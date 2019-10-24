@@ -20,3 +20,5 @@ ccepted to be termed as a "feature".
 ### Some terms you need to know to understand GitFlow
 1. Repositiory: 
 This is, in simple terms, a file wherein all the ocntent of the project files is kept. It's best termed as the project's folder.
+2. Clone:
+As the name suggests, cloning literally means getting a copy of something. In github the clone command copies the source code of the repository from the source control. 
