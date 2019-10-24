@@ -1,8 +1,8 @@
 # Extra Links
 
-[Intro to Git] (https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+[Intro to Git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 
-[Intro to Git and GitHub] (https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+[Intro to Git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
