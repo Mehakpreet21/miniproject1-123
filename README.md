@@ -7,7 +7,7 @@ By: Tejasree Seelam, Mehakpreet Kaur, Noura Hedhli
 
 #### Todo List
 - [ ] Noura: Part 1 - What is it? Why do you do it? How do you do it?
-- [ ] Mehak: Part 2 - Explain gitFlow & define Git commands
+- [x] Mehak: Part 2 - Explain gitFlow & define Git commands
 - [x] Teja: Part 3 - Step by Step Tutorial
 - [x] Teja: Add Section for Extra Links
 
