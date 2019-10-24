@@ -36,3 +36,6 @@ example: master and develop branch.
 5. Commit:
 It acts as an individual change to a file. To commit means to make whatever changes you made in your cloned repository, permanent.
 example: commiting every definition to GitHub through GitBash
+6. Merge:
+Merge comman is one that we use in order to literally merge different branches to make one single branch. It is similar to compiling different parts of a project.
+
