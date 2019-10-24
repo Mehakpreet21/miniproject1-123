@@ -30,5 +30,5 @@ starting from the root.
 7. History: history command shows a list of the commands entered since you started the session.
 It can be reuse a command by typing !3 or !1 depending on how many commands you had.
 
-8. Home directory and ~: using "cd" or "cd~" to either navigate up on directory level or you can use "cd" to navigate to the perivious directory. "cd~" let's you navigate through multiple levels of directories at once.
-   
+8. Home directory and " ~" : Home directory is the directory where the user stores all his or her personal information. Using "cd" or "cd~" to either navigate up on directory level or you can use "cd" to navigate to the perivious directory. "cd~" let's you navigate through multiple levels of directories at once.
+9. file path in Linux: finding a file path you can do it by typing in terminal "find/path/to/folder/ -iname *file_name_portion*". to find only files or only folders add -type f for files or -type d for directories.   
