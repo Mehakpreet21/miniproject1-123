@@ -6,4 +6,8 @@
 2. mkdir: is used to create a directory.
 * Example:
 - mkdir "path/to/new/directory
-- mkdir ./Desktop/New_folder  
+- mkdir ./Desktop/New_folder
+3. cp: is Copy a file to another directory.
+* Example:
+- cp "filename" "newfilename"
+- cp ./Desktop/noura.pdf noura1.pdf  
